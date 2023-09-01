@@ -13,7 +13,7 @@ Uma TODO List feita com amor e carinho ❤, também te deixa ver o clima em temp
 
 Aqui você pode anotar suas tarefas e deixar salvo durante o dia, assim podendo te ajudar a organizar melhor como gerenciar seu tempo durante o dia e dividir em pequenos passos seus afazeres e tarefas.
 
-![Print da aplicação](['/app-print.png'](https://github.com/GabrielSilva13/checkmate/blob/master/public/app-print.png))
+![Print da aplicação](/app-print.png'](https://github.com/GabrielSilva13/checkmate/blob/master/public/app-print.png)
 
 ## Capturas de Tela
 
