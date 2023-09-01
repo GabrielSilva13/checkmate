@@ -17,10 +17,10 @@ Aqui você pode anotar suas tarefas e deixar salvo durante o dia, assim podendo 
 
 ## Capturas de Tela
 
-![Print da aplicação(https://github.com/GabrielSilva13/checkmate/blob/master/public/app-print.png)
+![Print da aplicação](https://github.com/GabrielSilva13/checkmate/blob/master/public/app-print.png)
 Aqui nós temos a aplicação desktop funcionando com tarefas criadas.
 
-![Print da aplicação]('/app-confirm-to-delete.png')](https://github.com/GabrielSilva13/checkmate/blob/master/public/app-list-checked.png)
+[![Print da aplicação]('/app-confirm-to-delete.png')](https://github.com/GabrielSilva13/checkmate/blob/master/public/app-list-checked.png)](https://github.com/GabrielSilva13/checkmate/blob/master/public/app-list-checked.png)
 Aqui temos a lista quando marcada como concluída.
 
 [![Print da aplicação]('/app-confirm-to-delete.png')](https://github.com/GabrielSilva13/checkmate/blob/master/public/app-list-checked.png)
