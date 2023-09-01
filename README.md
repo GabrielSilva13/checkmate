@@ -42,7 +42,7 @@ npm run dev
 
 ### Pré-requisitos
 
-Pra todar o projeto no seu computador é necessário ter o node instalado.
+Para rodar o projeto no seu computador é necessário ter o node instalado.
 
 Eu estou usando a versão 19.4.0
 
