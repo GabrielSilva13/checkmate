@@ -13,17 +13,17 @@ Uma TODO List feita com amor e carinho ❤, também te deixa ver o clima em temp
 
 Aqui você pode anotar suas tarefas e deixar salvo durante o dia, assim podendo te ajudar a organizar melhor como gerenciar seu tempo durante o dia e dividir em pequenos passos seus afazeres e tarefas.
 
-![Ícone do GitHub](https://github.com/GabrielSilva13/checkmate/blob/master/public/app-print.png)
+![Print da aplicação](https://github.com/GabrielSilva13/checkmate/blob/master/public/app-print.png)
 
 ## Capturas de Tela
 
-![Print da aplicação]('/app-print.png')
+![Print da aplicação(https://github.com/GabrielSilva13/checkmate/blob/master/public/app-print.png)
 Aqui nós temos a aplicação desktop funcionando com tarefas criadas.
 
-![Print da aplicação com a tarefa concluída]('/app-list-checked.png')
+![Print da aplicação]('/app-confirm-to-delete.png')](https://github.com/GabrielSilva13/checkmate/blob/master/public/app-list-checked.png)
 Aqui temos a lista quando marcada como concluída.
 
-![Print da aplicação]('/app-confirm-to-delete.png')
+[![Print da aplicação]('/app-confirm-to-delete.png')](https://github.com/GabrielSilva13/checkmate/blob/master/public/app-list-checked.png)
 Aqui temos a situação de quando clicamos em deletar e aparece a confirmação antes de deletar a tarefa.
 
 ## Como Usar
