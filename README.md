@@ -74,4 +74,6 @@ Este projeto foi construido com as seguintes tecnologias:
 - [TailwindCSS](https://tailwindcss.com/docs/installation)
 - [Shadcn-UI](https://ui.shadcn.com/)
 - [IDB](https://github.com/jakearchibald/idb)
-- [OpenWeatherAPI]([https://github.com/jakearchibald/idb](https://openweathermap.org/api/one-call-3)https://openweathermap.org/api/one-call-3)
+- [OpenWeatherAPI](https://openweathermap.org/api/one-call-3)
+- [GeocodingAPI](https://openweathermap.org/api/geocoding-api)
+
